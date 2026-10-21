@@ -1,0 +1,2 @@
+# NGM_MINI_AI
+SIMPLE AI
